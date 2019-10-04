@@ -41,9 +41,13 @@ Transition, e-platform to help hospitals and care provider's streamline the pati
 G/Technology, feature-rich application platform designed to meet the geospatial resource management needs of utilities and communications companies. 
 
 *Responsibilities:*
-* Analyzed project requirements to find bugs and eliminate issues 
-* Worked extensively with engineering staff to better understand geospatial solutions and benefits 
-* Created, edited, and updated project manuals and technical documentation used by the entire QA team 
+
+* Plan, develop, organize, documented and edited platform design specifications and test scripts
+* Conducted testing throughout the platform development lifecycle (SCL) to provide input on functional requirements, product designs, and potential issues
+* Documented platform defects using the bug tracking system and reported defects involving program functionality, output, online screen and content to platform developers
+* Documented technical documentation on operational procedures for developers using technical terminology, technical diagrams by maintaining continuity in the style of content
+* Implemented web component tests using JUnit 
+* Setup and automated build process
 * Executed and monitored standards for user interfaces, page design and graphics development Written test cases for new features and updated tests based on the changes
 
 **Environment:** C#.net, Oracle 10g/11g, Manual Testing, QTP 10 & Toad, QC

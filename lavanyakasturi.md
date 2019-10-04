@@ -15,6 +15,7 @@ Skilled Technical Project Manager with over four years of experience in leading 
 ### Work History
 
 **Entrepreneur, Founder**
+
 **Swarajhari School Of Music   | May 2015 - Current**
 * 35 students at various levels 
 * Planning, scheduling, organizing classes and track the growth of students

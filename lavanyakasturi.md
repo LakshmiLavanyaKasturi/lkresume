@@ -20,7 +20,7 @@ Skilled Technical Project Manager with over four years of experience in leading 
 * 35 students at various levels 
 * Planning, scheduling, organizing classes and track the growth of students
 
-### Technical Project Manager
+**Technical Project Manager**
 **Ensocare - Seattle, WA  | June 2013 - December 2014**
 
 Transition, e-platform to help hospitals and care provider's streamline the patient transition post-discharge. 

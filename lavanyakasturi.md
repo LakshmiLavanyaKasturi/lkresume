@@ -2,19 +2,19 @@
  ####  Sammamish, WA | 972-357-0755  | lavanyakasturi@gmail.com
 
 ### Professional Summary 
-Skilled Technical Project Manager with 2.5 years of experience in IT industry and 4+ years of experience in leading an organization with excellent problem-solving, organizational and decision-making abilities. Well-versed in coordinating software projects with co-located and off-site teams.
+Skilled Technical Project Manager with over four years of experience in leading an organization with excellent problem-solving, organizational and decision-making abilities. Well-versed in coordinating software projects with co-located and off-site teams.
 
 ### Skills
-* Project Management                     
-* Agile and Waterfall methodology             
-* Problem resolution 
-* Team leadership                           
-* Quality Assurance 
+* Project Management
+* Agile and Waterfall methodology
+* Problem resolution
+* Team leadership
+* Quality Assurance
 
 
 ### Work History
 
-**Entrepreneur, Founder And Director**
+**Entrepreneur, Founder**
 **Swarajhari School Of Music   | May 2015 - Current**
 * 35 students at various levels 
 * Planning, scheduling, organizing classes and track the growth of students

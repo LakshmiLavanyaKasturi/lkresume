@@ -6,7 +6,7 @@ Skilled Technical Writer and Program Manager with over four years of experience 
 
 ### Skills
 * Content Writing
-* Project Management
+* Program Management
 * Agile and Waterfall methodology
 * Problem resolution
 * Team leadership
@@ -14,8 +14,6 @@ Skilled Technical Writer and Program Manager with over four years of experience 
 
 
 ### Work History
-
-**Content Writer , Entrepreneur and Program Manager **
 
 **Vaidika Vignanam | Nov 2017 - Present**
 * Authored and prrof read articles based on GitHub pages CMS. 
@@ -48,15 +46,15 @@ Transition, e-platform to help hospitals and care provider's streamline the pati
 **Software Analyst**
 
 **Hexagon Inc. (Ex: Intergraph) - Hyderabad, Andhra Pradesh, India. | Aug 2011 - Jul 2012.**                                                  
-G/Technology, feature-rich application platform designed to meet the geospatial resource management needs of utilities and communications companies. 
+G/Technology, feature-rich application platform designed to meet the geospatial resource management needs of utilities and communications. 
 
 *Responsibilities:*
 
 * Plan, develop, organize, documented and edited platform design specifications and test scripts
-* Conducted testing throughout the platform development lifecycle (SCL) to provide input on functional requirements, product designs, and potential issues
-* Documented platform defects using the bug tracking system and reported defects involving program functionality, output, online screen and content to platform developers
-* Documented technical documentation on operational procedures for developers using technical terminology, technical diagrams by maintaining continuity in the style of content
-* Implemented web component tests using JUnit 
+* Conducted testing throughout the platform development lifecycle (SCL) to provide input on functional requirements, product designs, and potential issues.
+* Documented platform defects using the bug tracking system and reported defects involving program functionality, output, online screen and content to platform developers.
+* Documented technical documentation on operational procedures for developers using technical terminology, technical diagrams by maintaining continuity in the style of content.
+* Implemented web component tests using JUnit. 
 * Setup and automated build process
 * Executed and monitored standards for user interfaces, page design and graphics development Written test cases for new features and updated tests based on the changes
 

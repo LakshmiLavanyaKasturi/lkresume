@@ -2,9 +2,10 @@
  ####  Sammamish, WA | 972-357-0755  | lavanyakasturi@gmail.com
 
 ### Professional Summary 
-Skilled Technical Project Manager with over four years of experience in leading an organization with excellent problem-solving, organizational and decision-making abilities. Well-versed in coordinating software projects with co-located and off-site teams.
+Skilled Technical Writer and Program Manager with over four years of experience in leading an organization with excellent problem-solving, organizational and decision-making abilities. Well-versed in coordinating software projects with co-located and off-site teams.
 
 ### Skills
+* Content Writing
 * Project Management
 * Agile and Waterfall methodology
 * Problem resolution
@@ -14,14 +15,23 @@ Skilled Technical Project Manager with over four years of experience in leading 
 
 ### Work History
 
-**Entrepreneur, Founder**
+**Content Writer , Entrepreneur and Program Manager **
+
+**Vaidika Vignanam | Nov 2017 - Present**
+* Authored and prrof read articles based on GitHub pages CMS. 
+* Designed and developed user friendly pages using REACT JS. 
+* Ensure quality and maintenance of the website while re-architecting to REACT - JS. 
+
+**Interesting Engineering | Nov 2016 - Jan 2017**
+* Designed and developed articles based on WordPress CMS
+* Author and Proof reader of Technical articles on a broad range of Technical topics. 
 
 **Swarajhari School Of Music   | May 2015 - Current**
 * 35 students at various levels 
 * Planning, scheduling, organizing classes and track the growth of students
 
 **Technical Project Manager**
-**Ensocare - Seattle, WA  | June 2013 - December 2014**
+**Ensocare - Seattle, WA  | Jun 2013 - Dec 2014**
 
 Transition, e-platform to help hospitals and care provider's streamline the patient transition post-discharge. 
 
@@ -37,7 +47,7 @@ Transition, e-platform to help hospitals and care provider's streamline the pati
 
 **Software Analyst**
 
-**Hexagon Inc. (Ex: Intergraph) - Hyderabad, Andhra Pradesh, India. | August 2011 - July 2012.**                                                  
+**Hexagon Inc. (Ex: Intergraph) - Hyderabad, Andhra Pradesh, India. | Aug 2011 - Jul 2012.**                                                  
 G/Technology, feature-rich application platform designed to meet the geospatial resource management needs of utilities and communications companies. 
 
 *Responsibilities:*
@@ -53,7 +63,7 @@ G/Technology, feature-rich application platform designed to meet the geospatial 
 **Environment:** C#.net, Oracle 10g/11g, Manual Testing, QTP 10 & Toad, QC
 
 **Education** 
-* Bachelor of Technology: Electronics And Computer Engineering in PVP Siddhartha Institute of Technology, JNTUK | May 2011   
+* Bachelor of Technology: Electronics And Computer Engineering in PVP Siddhartha Institute of Technology, JNTUK |Jun 2007 - May 2011   
 
 **Certification**
 

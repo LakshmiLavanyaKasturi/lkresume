@@ -12,13 +12,27 @@ Skilled Technical Writer and Program Manager with over four years of experience 
 * Team leadership
 * Quality Assurance
 
-
 ### Work History
 
-**Vaidika Vignanam | Nov 2017 - Present**
-* Authored and prrof read articles based on GitHub pages CMS. 
-* Designed and developed user friendly pages using REACT JS. 
-* Ensure quality and maintenance of the website while re-architecting to REACT - JS. 
+**Programmer Writer | Microsoft | May 2020 - April 2021**
+* Wrote an article to use PowerShell scripts to automate the process of setting up an Azure digital twins instance and authentication using Markdown.
+* Worked with developers to improve automated scripts to onboard users to Azure digital twins service. Identified 5 key issues and improved the efficiency of the script from 40 to 75%.
+* Authentication using OAuth2.
+* Linked App registrations using Power shell and Azure portal.
+* Authorization scripts for automated access control.
+* Control plane APIs and Data plane APIs.
+* Used POSTMAN to import digital twins SWAGGER files and used HTTP methods to call API.
+* Used SQL based Azure Digital Twins query language to query the twin graph.
+* Used ARM API’s to create an endpoint with dead lettering using C#.
+* Worked on content standards report for Azure services using Power BI and improved the document standards from 55% to 85%.
+* Used DevOps for sprint planning, reporting, and task management.
+
+
+**MS Learn project | Oct 2020 - Feb 2021**
+* Edited learning content adhering to learning standards.
+* Contributed to 4 learning modules for Azure Digital Twins.
+* Supported team with the Github process in reviewing and publishing the content.
+
 
 **Interesting Engineering | Nov 2016 - Jan 2017**
 * Designed and developed articles based on WordPress CMS
@@ -65,6 +79,7 @@ G/Technology, feature-rich application platform designed to meet the geospatial 
 
 **Certification**
 
+* Advanced certificate course in structured writing for technical documentation - Univeristy of Wisconsin.
 * HIPAA Certified Professional. 
 * Introduction to Software Product Management Course by University of Alberta.
 
